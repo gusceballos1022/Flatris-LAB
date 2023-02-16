@@ -15,3 +15,6 @@ Also see [elm-flatris](https://github.com/w0rm/elm-flatris).
 This is my first edit of Flatris readme by Gus ceballos
 
 Another change
+\\
+
+more changes
